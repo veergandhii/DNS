@@ -1,6 +1,6 @@
 # DNS
 A simple dns server 
-Use the following commnands to run on ubuntu/linux
+Use the following commands to run on ubuntu/linux
 python3 simple_dns_server.py -o dns_server
 
 Run the DNS Server (as root)
